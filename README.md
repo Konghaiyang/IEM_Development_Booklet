@@ -1,2 +1,2 @@
 # IEM_Development_Booklet
-给SDU_IEM成员们的一些建议
+给SDU_IEM的小朋友们关于如何利用IEM的资源，度过本科时光的一些建议
